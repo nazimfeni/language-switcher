@@ -1,5 +1,7 @@
 ## Install laravel 10
+```
 composer create-project "laravel/laravel:^10.0" example-app
+```
 ### setup db and configure in .env file 
 ### run migration
 ```
