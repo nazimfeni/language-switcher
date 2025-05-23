@@ -1,4 +1,5 @@
-## Install laravel 10
+## Language switcher setup in Laravel
+### Install laravel 10
 ```
 composer create-project "laravel/laravel:^10.0" example-app
 ```
